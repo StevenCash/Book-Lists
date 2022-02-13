@@ -66,7 +66,36 @@ This is a great book to use to start learning about antennas.  I think it would 
 
 ### Digital and Computer Systems
 
+#### **Digital Fundamentals** by Thomas Floyd
 
+A good introductory digital circuitry textbook.  
+
+#### **Digital Design and Computer Architecture** by Harris and Harris
+
+This is a fantastic book that covers digital basics as well as how processors and computer systems work.  If you are learning this on your own and not in a class this is the book I would recommend.  I would call it a little less formal than the usual textbook, but much more practical.  
+
+#### **Computer Networking: A Top Down Approach** by Kurose and Ross
+
+Good book on computer networks, basically drills down through the IP stack layers one at a time and explains each as it goes.
+
+
+### Other Good Books
+
+#### **Electronic Test Instruments: Theory and Application** by Witte
+
+A book discussing how common electonic test instruments work and how to properly use them to take measurements.  Something not really covered in school but very valuable in the real world.
+
+#### **Noise Reduction Techniques in Electronic Systems** by Henry Ott
+
+This is a classic book that covers all things related to noise, grounding, shielding, cables, radiation, ESD, etc.  A must have for anyone doing electronic hardware design.
+
+#### **Materials Science and Engineering** by Callister
+
+A good entry level materials science textbook.
+
+#### **Introduction to Airborne Radar** by Stimson
+
+Fantastic overview of radar systems.  If you work on or with radar in any capacity you should read this book.  If you work designing technology for the defense industry odds are high you will encounter this book at some point.
 
 
 
