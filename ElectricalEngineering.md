@@ -97,6 +97,27 @@ A good entry level materials science textbook.
 
 Fantastic overview of radar systems.  If you work on or with radar in any capacity you should read this book.  If you work designing technology for the defense industry odds are high you will encounter this book at some point.
 
+#### **The Making of an Expert Engineer** by Trevelyan
+
+This is a sort of career advice type book for engineers.  The author tries to dispel common misconceptions students and beginning engineers hold, and presents case studies of real world situations.  He also discusses teaching, leadership, investing, and a number of other non-technical issues that an engineer must master in order to succeed.
+
+#### **Universal Principles of Design** by Lidwell, Holden and Butler
+
+This is a handy book for anyone doing design work.  It is more aesthetic than technical, but if you design anything that people must interact with there is useful information in here for you on anything from layout of controls to effective color choices.  Also discusses human biases and conditioning, hierarchy, layers, etc.
+
+#### **Intellectual Property Law for Engineers and Scientists** by Rockman
+
+Discusses things like patents, copyrights, trademarks, etc.  Basically tells you how to protect your work from being stolen.  Very detailed information on what patents are, what is patentable, how to apply for a patent, etc.
+
+#### **Essentials of Electronic Packaging: A Multidisciplanary Approach** by Viswanadham
+
+Packaging technologies (component and board), interconnections, reliability, failure modes, and other related information.  If you work on electronics this is full of good knowledge.
+
+#### **The Design of Everyday Things** by Donald
+
+This is a book every engineer should be made to read.  It is about how to design things so they are actually usable.  Gives examples of good and bad designs of products.  It is actually both entertaining and instructive.
+
+
 
 
 
