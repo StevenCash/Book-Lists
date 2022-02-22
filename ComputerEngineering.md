@@ -25,6 +25,22 @@ I have the 5th edition of this book which covers the Win32 API.  It is invaluabl
 I have a couple of different editions of this book, one of which is for .net (sixth edition).  They are all good.  They explain how to use visual studio and the Microsoft Foundation Classes to write windows programs.  However, they are written for older versions of Visual Studio and so are somewhat out of date for the latest incarnations of the Visual Studio IDE.  Even being dated, some of the information is still useful.
 
 
+### **Books on Specific Topics**
+
+#### **Teach Yourself Data Structures and Algorithms in 24 Hours** by Lafore
+
+Good introduction to the topic, not a textbook but fine as a supplement or for someone looking to learn the basic concepts on their own.
+
+#### **Make Your Own Neural Network** by Tariq Rashid
+
+This is another awesome book by Tariq Rashid that explains the basics of neural networks and how to create one using Python.  The author gives simple clear explanations and focuses on getting the concepts across rather than burying the reader in mathematical proofs.  I have enjoyed everything I have read by Rashid.
+
+#### **Operating Systems: Three Easy Pieces** by Andrea and Remzi Arpaci-Dusseau
+
+Good book that explains the concepts of what an operating system must accomplish and why.  If you read this first you can then move on to a book specific to a particular OS or aspect of an OS and have a good basis to work from.
+
+
+
 
 
 <!-- More to be added later -->
