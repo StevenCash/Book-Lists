@@ -39,7 +39,9 @@ This is another awesome book by Tariq Rashid that explains the basics of neural 
 
 Good book that explains the concepts of what an operating system must accomplish and why.  If you read this first you can then move on to a book specific to a particular OS or aspect of an OS and have a good basis to work from.
 
+#### **Design Patterns: Elements of Reusable Object-Oriented Software** by Gamma et. al.
 
+I haven't read all of this book, but have read parts of it and used several of the patterns.  This is a book any programmer should at least be familiar with.
 
 
 
