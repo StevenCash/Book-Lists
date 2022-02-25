@@ -44,5 +44,10 @@ Good book that explains the concepts of what an operating system must accomplish
 I haven't read all of this book, but have read parts of it and used several of the patterns.  This is a book any programmer should at least be familiar with.
 
 
+### **Other Useful Books**
+
+#### **Computer Science Distilled: Learn the Art of Solving Computational Problems** by Filho
+
+This book has some good general programming advice.
 
 <!-- More to be added later -->
