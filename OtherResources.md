@@ -21,6 +21,14 @@ Professor Arthur Mattuck's Differential Equations class.  Very good.  Most of th
 
 [link](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/video-lectures/)
 
+### **MIT Multivariable Calculus**
+
+Yet another great video series by MIT, this one by Professor Denis Auroux.
+
+[link](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
+
+
+
 
 
 
