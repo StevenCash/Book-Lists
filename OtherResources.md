@@ -43,6 +43,13 @@ This is a site I have found useful several times, lots of signal processing rela
 
 [DSPRelated](https://www.dsprelated.com/)
 
+### **Feynman Lectures on Physics**
+
+Caltech has posted Feynman's physics lectures online for all to enjoy.
+
+[Feynman Lectures](https://www.feynmanlectures.caltech.edu/)
+
+
 
 
 
