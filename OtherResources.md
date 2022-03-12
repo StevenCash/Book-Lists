@@ -58,6 +58,11 @@ Amateur radio, lots of great resources.
 
 [ARRL](https://www.arrl.org/)
 
+## **IEEE**
+
+Electrical engineering organization, great source for standards and journals.
+
+[IEEE](www.ieee.org)
 
 
 
