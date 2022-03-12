@@ -62,7 +62,7 @@ Amateur radio, lots of great resources.
 
 Electrical engineering organization, great source for standards and journals.
 
-[IEEE](www.ieee.org)
+[IEEE](https://www.ieee.org)
 
 
 
