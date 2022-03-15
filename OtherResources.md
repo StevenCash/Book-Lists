@@ -49,6 +49,13 @@ Caltech has posted Feynman's physics lectures online for all to enjoy.
 
 [Feynman Lectures](https://www.feynmanlectures.caltech.edu/)
 
+### **Hackaday**
+
+People building cool stuff.
+
+[Hackaday](https://hackaday.com/)
+
+
 
 ## **Organizations**
 
