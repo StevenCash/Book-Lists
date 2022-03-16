@@ -65,11 +65,20 @@ Amateur radio, lots of great resources.
 
 [ARRL](https://www.arrl.org/)
 
-## **IEEE**
+### **IEEE**
 
 Electrical engineering organization, great source for standards and journals.
 
 [IEEE](https://www.ieee.org)
+
+
+
+
+## **Suppliers**
+
+[Digi-key](https://www.digikey.com)
+[Mouser](https://www.mouser.com)
+
 
 
 
