@@ -76,6 +76,8 @@ Electrical engineering organization, great source for standards and journals.
 
 ## **Suppliers**
 
+### **Components**
+
 [Digi-key](https://www.digikey.com)
 
 [Mouser](https://www.mouser.com)
