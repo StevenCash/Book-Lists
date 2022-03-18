@@ -82,7 +82,7 @@ Electrical engineering organization, great source for standards and journals.
 
 [Mouser](https://www.mouser.com)
 
-
+[Surplus Sales of Nebraska](https://www.surplussales.com/)
 
 
 
