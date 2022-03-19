@@ -84,6 +84,8 @@ Electrical engineering organization, great source for standards and journals.
 
 [Surplus Sales of Nebraska](https://www.surplussales.com/)
 
+[American Science and Surplus](https://www.sciplus.com/)
+
 
 
 
