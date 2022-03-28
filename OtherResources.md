@@ -89,4 +89,18 @@ Electrical engineering organization, great source for standards and journals.
 
 
 
+## **Software**
+
+### **CAD**
+
+[FreeCAD](https://www.freecadweb.org/)  
+
+A free 3D Mechanical CAD program.
+
+[LibreCAD](https://librecad.org/)
+
+A free 2D Mechanical CAD program.
+
+
+
 <!--More will be added later-->
