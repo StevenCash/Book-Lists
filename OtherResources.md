@@ -101,6 +101,10 @@ A free 3D Mechanical CAD program.
 
 A free 2D Mechanical CAD program.
 
+[KiCad](https://www.kicad.org/)
+
+A free electronics schematics capture program.
+
 
 
 <!--More will be added later-->
