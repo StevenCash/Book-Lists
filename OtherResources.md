@@ -105,6 +105,10 @@ A free 2D Mechanical CAD program.
 
 A free electronics schematics capture program.
 
+[Inkscape](https://inkscape.org/)
+
+Free vector graphics editor.
+
 
 
 <!--More will be added later-->
