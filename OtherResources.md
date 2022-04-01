@@ -110,5 +110,16 @@ A free electronics schematics capture program.
 Free vector graphics editor.
 
 
+### **3D**
+
+[Blender](https://www.blender.org/)
+
+Free 3D modeling/rendering/animation/compositing/everything software.
+
+[POV-Ray](https://www.povray.org/)
+
+One of the original, if not the original, 3D modeling and rendering programs.
+
+
 
 <!--More will be added later-->
