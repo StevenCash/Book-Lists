@@ -120,6 +120,10 @@ Free 3D modeling/rendering/animation/compositing/everything software.
 
 One of the original, if not the original, 3D modeling and rendering programs.
 
+[MagicaVoxel](https://ephtracy.github.io/index.html?page=mv_main)
+
+Super-cool little program for voxel modeling and rendering, almost like building things from Legos.
+
 
 
 <!--More will be added later-->
