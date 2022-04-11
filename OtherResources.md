@@ -55,6 +55,12 @@ People building cool stuff.
 
 [Hackaday](https://hackaday.com/)
 
+### **Blender Guru**
+
+Great Blender resource, especially for those new to 3D computer art.
+
+[Blender Guru](https://www.blenderguru.com/)
+
 
 
 ## **Organizations**
