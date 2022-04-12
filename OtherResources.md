@@ -97,6 +97,21 @@ Electrical engineering organization, great source for standards and journals.
 
 ## **Software**
 
+### **3D**
+
+[Blender](https://www.blender.org/)
+
+Free 3D modeling/rendering/animation/compositing/everything software.
+
+[POV-Ray](https://www.povray.org/)
+
+One of the original, if not the original, 3D modeling and rendering programs.
+
+[MagicaVoxel](https://ephtracy.github.io/index.html?page=mv_main)
+
+Super-cool little program for voxel modeling and rendering, almost like building things from Legos.
+
+
 ### **CAD**
 
 [FreeCAD](https://www.freecadweb.org/)  
@@ -116,19 +131,11 @@ A free electronics schematics capture program.
 Free vector graphics editor.
 
 
-### **3D**
+### **Coding**
 
-[Blender](https://www.blender.org/)
+[Anaconda](https://www.anaconda.com/)
 
-Free 3D modeling/rendering/animation/compositing/everything software.
-
-[POV-Ray](https://www.povray.org/)
-
-One of the original, if not the original, 3D modeling and rendering programs.
-
-[MagicaVoxel](https://ephtracy.github.io/index.html?page=mv_main)
-
-Super-cool little program for voxel modeling and rendering, almost like building things from Legos.
+Cool open source coding environment manager-type thing, mainly for Python.  Contains jupyter, Spyder, VSCode, etc.
 
 
 
