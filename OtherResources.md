@@ -137,6 +137,10 @@ Free vector graphics editor.
 
 Cool open source coding environment manager-type thing, mainly for Python.  Contains jupyter, Spyder, VSCode, etc.
 
+[Qt](https://www.qt.io/?hsLang=en)
+
+Cross Platform C++ development environment, free for non-commercial use.  My favorite C++ IDE.  
+
 
 
 <!--More will be added later-->
