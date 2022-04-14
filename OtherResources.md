@@ -141,6 +141,10 @@ Cool open source coding environment manager-type thing, mainly for Python.  Cont
 
 Cross Platform C++ development environment, free for non-commercial use.  My favorite C++ IDE.  
 
+[Visual Studio](https://visualstudio.microsoft.com/)
+
+Compiler for Microsoft Windows.  You can also get Visual Studio Code, which is a nice little stand-alone editor, at this same link.
+
 
 
 <!--More will be added later-->
