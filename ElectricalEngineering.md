@@ -109,6 +109,9 @@ Discusses things like patents, copyrights, trademarks, etc.  Basically tells you
 
 Packaging technologies (component and board), interconnections, reliability, failure modes, and other related information.  If you work on electronics this is full of good knowledge.
 
+#### **Engineering Mathematics** by Stroud
+
+Good book for brushing up on all the various math topics you might run into in undergraduate engineering.
 
 
 
