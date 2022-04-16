@@ -1,4 +1,4 @@
-# **This File Contains a List of Non-Book Resources for Learning Science, Math and Engineering Topics**
+# **This File Contains a List of Non-Book Resources for Learning Science, Math and Engineering Topics, as well as Links to Software and Part Suppliers and Whatever Else I Find Useful**
 
 
 ## **Videos**
