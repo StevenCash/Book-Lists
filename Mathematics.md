@@ -21,6 +21,15 @@ A great informal text that discusses how to think about vector calculus operatio
 
 
 
+### Differential Equations
+
+#### **Boundary Value Problems** by David Powers
+
+I read this book to learn about partial differential equations and it was pretty good.  It is kind of a typical textbook but good enough you can use it
+for self study.
+
+
+
 ### Proofs
 
 #### **Book of Proof** by Richard Hammack
