@@ -145,6 +145,10 @@ Cross Platform C++ development environment, free for non-commercial use.  My fav
 
 Compiler for Microsoft Windows.  You can also get Visual Studio Code, which is a nice little stand-alone editor, at this same link.
 
+[Android Studio](https://developer.android.com/studio/)
+
+IDE for Android, you will need this if you want to develop things like phone apps or want to use AVDs.
+
 
 
 <!--More will be added later-->
