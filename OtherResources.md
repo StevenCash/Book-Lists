@@ -61,6 +61,12 @@ Great Blender resource, especially for those new to 3D computer art.
 
 [Blender Guru](https://www.blenderguru.com/)
 
+### **HP App Note Archive**
+
+Collection of old Hewlett Packard Application Notes.
+
+[HP App Note Archive](http://hparchive.com/appnotes)
+
 
 
 ## **Organizations**
