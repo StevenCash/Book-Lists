@@ -67,6 +67,12 @@ Collection of old Hewlett Packard Application Notes.
 
 [HP App Note Archive](http://hparchive.com/appnotes)
 
+### **EverySpec**
+
+Website with tons of specifications documentation, including lots of MIL-specs.
+
+[EverySpec](http://everyspec.com/)
+
 
 
 ## **Organizations**
