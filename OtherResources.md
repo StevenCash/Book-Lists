@@ -31,6 +31,12 @@ Yet another great video series by MIT, this one by Professor Denis Auroux.
 
 ## **Websites, Blogs, Forums, etc.**
 
+### **MIT OpenCourseWare**
+
+Access to the MIT course catalog, including, in many cases, lecture notes, practice exams, video lectuers and even textbooks.
+
+[MITOpenCourseWare](https://ocw.mit.edu/)
+
 ### **EEVblog**
 
 This is an awesome Electrical Engineering Youtube channel, full of all kinds of great information.
