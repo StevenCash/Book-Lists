@@ -167,6 +167,10 @@ Compiler for Microsoft Windows.  You can also get Visual Studio Code, which is a
 
 IDE for Android, you will need this if you want to develop things like phone apps or want to use AVDs.
 
+[Labview Community Edition](https://www.ni.com/en-us/shop/labview/select-edition/labview-community-edition.html)
+
+Free version of Labview for hobbyists and students.
+
 
 
 <!--More will be added later-->
