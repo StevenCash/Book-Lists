@@ -40,5 +40,9 @@ Very interesting book exploring the history, and future, of codes and cryptograp
 
 Rules for Parliamentary procedure.
 
+#### **The Art of War** by Sun Tzu
+
+Classic text on strategy.
+
 
 <!-- More to be added later-->
