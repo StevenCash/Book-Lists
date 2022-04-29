@@ -178,5 +178,12 @@ IDE for Android, you will need this if you want to develop things like phone app
 Free version of Labview for hobbyists and students.
 
 
+### **Virtualization**
+
+[VMWare Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html)
+
+Free virtual machine player.  VMWare also makes commercial products.
+
+
 
 <!--More will be added later-->
