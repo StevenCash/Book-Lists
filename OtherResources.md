@@ -184,6 +184,10 @@ Free version of Labview for hobbyists and students.
 
 Free virtual machine player.  VMWare also makes commercial products.
 
+[OpenSuse Images](https://www.osboxes.org/opensuse/)
+
+Virtual machine images for OpenSuse Linux.  There is a variety of other operating systems available on the site as well.
+
 
 
 <!--More will be added later-->
