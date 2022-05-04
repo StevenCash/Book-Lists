@@ -101,6 +101,12 @@ Electrical engineering organization, great source for standards and journals.
 
 [IEEE](https://www.ieee.org)
 
+### **AMSAT**
+
+Radio Amateur Satellite Organization.
+
+[AMSAT](https://www.amsat.org/)
+
 
 
 
