@@ -107,6 +107,12 @@ Radio Amateur Satellite Organization.
 
 [AMSAT](https://www.amsat.org/)
 
+### **Libre Space Foundation**
+
+Open source space exploration.
+
+[LibreSpace](https://libre.space/)
+
 
 
 
