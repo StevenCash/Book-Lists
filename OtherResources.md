@@ -212,5 +212,12 @@ Free and open source game design engine.
 2D Physics engine in C++ for use in games.
 
 
+## **Archives, Lists, and other Resource Collections**
+
+[Awesome Math](https://github.com/rossant/awesome-math)
+
+Massive set of math resoures.
+
+
 
 <!--More will be added later-->
