@@ -79,11 +79,6 @@ Website with tons of specifications documentation, including lots of MIL-specs.
 
 [EverySpec](http://everyspec.com/)
 
-### **Internet Archive**
-
-Site that has tons of books and audio as well as the wayback machine web archive.
-
-[Internet Arcive](https://archive.org/)
 
 
 
@@ -217,6 +212,12 @@ Free and open source game design engine.
 [Awesome Math](https://github.com/rossant/awesome-math)
 
 Massive set of math resoures.
+
+[Internet Arcive](https://archive.org/)
+
+Site that has tons of books and audio as well as the wayback machine web archive.
+
+
 
 
 
