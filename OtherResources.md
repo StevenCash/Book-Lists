@@ -217,6 +217,10 @@ Massive set of math resoures.
 
 Site that has tons of books and audio as well as the wayback machine web archive.
 
+[Chicago Undergraduate Mathematics Bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
+
+Big list of math books with reviews/comments.
+
 
 
 
