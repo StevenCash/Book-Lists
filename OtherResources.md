@@ -221,6 +221,9 @@ Site that has tons of books and audio as well as the wayback machine web archive
 
 Big list of math books with reviews/comments.
 
+[Carvalho Guides](https://github.com/joaocarvalhoopen/Guides_Linux-Programming-Electronics-Aeronautics)
+
+More resources lists and guides for various programming and engineering topics.
 
 
 
