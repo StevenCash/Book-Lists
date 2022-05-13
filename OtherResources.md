@@ -225,6 +225,10 @@ Big list of math books with reviews/comments.
 
 More resources lists and guides for various programming and engineering topics.
 
+[Mindat](https://www.mindat.org/)
+
+Website with information about minerals and where they naturally occur around the world.
+
 
 
 
