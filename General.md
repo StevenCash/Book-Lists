@@ -44,5 +44,10 @@ Rules for Parliamentary procedure.
 
 Classic text on strategy.
 
+#### **Chaos: Making a New Science** by Glieck
+
+Sort of a layman's introduction to chaos theory.
+
+
 
 <!-- More to be added later-->
