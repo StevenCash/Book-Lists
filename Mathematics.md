@@ -77,7 +77,10 @@ This is a really cool little book that explains how to generate a Mandelbrot set
 This is a good book for a college student looking to major in mathematics, or perhaps even in some other scientific or technical field.  Part is devoted to mathematical thinking, language, and so forth, and the other part is more general advice that should apply to students of any major.  Good practical stuff.
 
 
+#### **Concepts of Modern Mathematics** by Ian Stewart
 
+This book is a sort of survey of the different fields of mathematics and gives some samples of the methods and types of problems one might encounter in
+the different areas.
 
 <!--More to be added later.-->
 
