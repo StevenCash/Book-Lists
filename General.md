@@ -48,6 +48,10 @@ Classic text on strategy.
 
 Sort of a layman's introduction to chaos theory.
 
+#### **Spies, Inc.** by Stacy Perman
+
+Tells about how Israeli intelligence and defense increased innovation to survive, and how the innovation has resulted in commercial products and services.
+
 
 
 <!-- More to be added later-->
