@@ -52,6 +52,10 @@ Sort of a layman's introduction to chaos theory.
 
 Tells about how Israeli intelligence and defense increased innovation to survive, and how the innovation has resulted in commercial products and services.
 
+#### **It's Only Rocket Science** by Lucy Rogers
+
+Simple introduction to rocket science, just as the title says.
+
 
 
 <!-- More to be added later-->
