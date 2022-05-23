@@ -56,6 +56,10 @@ Tells about how Israeli intelligence and defense increased innovation to survive
 
 Simple introduction to rocket science, just as the title says.
 
+#### **Electronics for Guitarists** by Denton J. Dailey
+
+Explanation of amplifiers, pickups, preamps, effects, etc.
+
 
 
 <!-- More to be added later-->
