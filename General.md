@@ -60,6 +60,10 @@ Simple introduction to rocket science, just as the title says.
 
 Explanation of amplifiers, pickups, preamps, effects, etc.
 
+#### **One Simple Idea** by Stephen Key
+
+Book that describes how to license ideas to companies for production.
+
 
 
 <!-- More to be added later-->
