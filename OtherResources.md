@@ -234,6 +234,10 @@ More resources lists and guides for various programming and engineering topics.
 
 Website with information about minerals and where they naturally occur around the world.
 
+[Your Old Time Bookstore](https://www.youroldtimebookstore.com/)
+
+Place that sells lots of old technology books and publications, stuff like steam engines and locomotives and phonographs, etc.
+
 
 
 
