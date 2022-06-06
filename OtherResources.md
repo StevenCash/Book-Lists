@@ -211,6 +211,10 @@ Free and open source game design engine.
 
 2D Physics engine in C++ for use in games.
 
+[Itch.io](https://itch.io/)
+
+Indie Games, resources, assets, etc.
+
 
 ## **Archives, Lists, and other Resource Collections**
 
