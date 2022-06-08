@@ -64,6 +64,10 @@ Explanation of amplifiers, pickups, preamps, effects, etc.
 
 Book that describes how to license ideas to companies for production.
 
+#### **A Book of Five Rings** Miyamoto Musashi
+
+Classic book by Japan's greatest swordsman explaining his philosophy.
+
 
 
 <!-- More to be added later-->
