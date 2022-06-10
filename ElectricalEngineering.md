@@ -113,6 +113,11 @@ Packaging technologies (component and board), interconnections, reliability, fai
 
 Good book for brushing up on all the various math topics you might run into in undergraduate engineering.
 
+#### **HP Application Note 150: Spectrum Analysis Basics**  by the Hewlett Packard Company
+
+Anyone who uses a spectrum analyzer should read this.  Try to find an old copy, I have one from 1989.  I found that some newer versions lacked information 
+that was provided in older versions.
+
 
 
 <!--more to be added later-->
