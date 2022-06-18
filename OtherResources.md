@@ -142,7 +142,7 @@ Open source space exploration.
 
 ## **Software**
 
-### **3D**
+### **Graphics**
 
 [Blender](https://www.blender.org/)
 
@@ -155,6 +155,10 @@ One of the original, if not the original, 3D modeling and rendering programs.
 [MagicaVoxel](https://ephtracy.github.io/index.html?page=mv_main)
 
 Super-cool little program for voxel modeling and rendering, almost like building things from Legos.
+
+[GIMP](https://www.gimp.org/)
+
+Gnu Image Manipulation Program, sort of like Photoshop but free.
 
 
 ### **CAD**
