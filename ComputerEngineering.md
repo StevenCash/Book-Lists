@@ -43,6 +43,10 @@ Good book that explains the concepts of what an operating system must accomplish
 
 I haven't read all of this book, but have read parts of it and used several of the patterns.  This is a book any programmer should at least be familiar with.
 
+#### **Dive Into Algorithms** by Bradford Tuckfield
+
+Fun little conceptual introduction to algorithms.  Also a good way to see some of Python's capabilities.
+
 
 ### **Other Useful Books**
 
