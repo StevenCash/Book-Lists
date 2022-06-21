@@ -64,9 +64,13 @@ Explanation of amplifiers, pickups, preamps, effects, etc.
 
 Book that describes how to license ideas to companies for production.
 
-#### **A Book of Five Rings** Miyamoto Musashi
+#### **A Book of Five Rings** by Miyamoto Musashi
 
 Classic book by Japan's greatest swordsman explaining his philosophy.
+
+#### **Gardening When it Counts - Growing Food in Hard Times** by Steve Solomon
+
+Practical book on home gardening aimed at showing how to grow real food without spending lots of money.
 
 
 
