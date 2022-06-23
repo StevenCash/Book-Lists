@@ -271,6 +271,10 @@ Resource for free video game art.
 
 Huge site full of all sorts of artwork.
 
+[Scratchapixel](https://www.scratchapixel.com/index.php?redirect)
+
+Lots of computer graphics tutorials and information.
+
 
 
 
