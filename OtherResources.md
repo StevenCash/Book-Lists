@@ -136,6 +136,8 @@ Open source space exploration.
 
 [American Science and Surplus](https://www.sciplus.com/)
 
+[Thomasnet](https://www.thomasnet.com/)
+
 
 
 
