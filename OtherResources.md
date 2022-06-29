@@ -279,6 +279,10 @@ Huge site full of all sorts of artwork.
 
 Lots of computer graphics tutorials and information.
 
+[Chicago Undergraduate Mathematics Bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm)
+
+List of mathematics books.
+
 
 
 
