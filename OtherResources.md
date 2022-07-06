@@ -92,6 +92,12 @@ NASA site about cubesats, smallsats, and other small spacecraft.
 
 [NASA Small Spacecraft Virtual Institute](https://www.nasa.gov/smallsat-institute)
 
+### **CubeSat**
+
+Site with information on cubesats.
+
+[CubeSat](https://www.cubesat.org/)
+
 
 
 ## **Organizations**
