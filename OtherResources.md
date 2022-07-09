@@ -295,6 +295,10 @@ Lots of computer graphics tutorials and information.
 
 List of mathematics books.
 
+[CVEL](https://cecas.clemson.edu/cvel/modeling/)
+
+Clemson Vehicular Electronics Lab electromagnetic modeling resources, lots of links to software, literature, etc. for EM modeling.
+
 
 
 
