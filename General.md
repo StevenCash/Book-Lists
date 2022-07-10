@@ -72,6 +72,10 @@ Classic book by Japan's greatest swordsman explaining his philosophy.
 
 Practical book on home gardening aimed at showing how to grow real food without spending lots of money.
 
+#### **Botany for Gardeners** by Brian Capon
+
+Practical information about plant biology and processes for non-scientists.
+
 
 
 <!-- More to be added later-->
