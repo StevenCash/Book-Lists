@@ -118,6 +118,10 @@ Good book for brushing up on all the various math topics you might run into in u
 Anyone who uses a spectrum analyzer should read this.  Try to find an old copy, I have one from 1989.  I found that some newer versions lacked information 
 that was provided in older versions.
 
+#### **The Invisible Universe: The Story of Radio Astronomy** by Verschuur
+
+If you want to know what radio astronomy is all about, check out this book.
+
 
 
 <!--more to be added later-->
