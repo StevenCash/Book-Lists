@@ -76,6 +76,10 @@ Practical book on home gardening aimed at showing how to grow real food without 
 
 Practical information about plant biology and processes for non-scientists.
 
+#### **Never Split the Difference** by Chris Voss
+
+Negotiation tips and techniques.
+
 
 
 <!-- More to be added later-->
