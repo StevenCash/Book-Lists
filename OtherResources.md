@@ -299,6 +299,10 @@ List of mathematics books.
 
 Clemson Vehicular Electronics Lab electromagnetic modeling resources, lots of links to software, literature, etc. for EM modeling.
 
+[Sound Bible](https://soundbible.com/)
+
+Site with free sounds clips for use in games and such.
+
 
 
 
