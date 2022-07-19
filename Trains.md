@@ -11,5 +11,7 @@ This, to me, is the most important book a model railroader can read.  It explain
 
 [Model Railroader Magazine](https://www.trains.com/mrr/)
 
+[Railroad Model Craftsman Magazine](https://rrmodelcraftsman.com/)
+
 
 <!-- More to be added later-->
