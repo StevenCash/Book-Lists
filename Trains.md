@@ -13,6 +13,8 @@ This, to me, is the most important book a model railroader can read.  It explain
 
 [Railroad Model Craftsman Magazine](https://rrmodelcraftsman.com/)
 
+[Appalachian Railroad Modeling](https://appalachianrailroadmodeling.com/)
+
 
 
 ## **Suppliers**
