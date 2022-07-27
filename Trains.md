@@ -21,5 +21,7 @@ This, to me, is the most important book a model railroader can read.  It explain
 
 [Athearn](https://www.athearn.com/)
 
+[Walthers](https://www.walthers.com/)
+
 
 <!-- More to be added later-->
