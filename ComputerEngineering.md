@@ -31,6 +31,10 @@ I have a couple of different editions of this book, one of which is for .net (si
 
 Good introduction to the topic, not a textbook but fine as a supplement or for someone looking to learn the basic concepts on their own.
 
+#### **Grokking Algorithms** by Aditya Bhargava
+
+Another conceptual algorithm book, light on code but easy to read and understand.
+
 #### **Make Your Own Neural Network** by Tariq Rashid
 
 This is another awesome book by Tariq Rashid that explains the basics of neural networks and how to create one using Python.  The author gives simple clear explanations and focuses on getting the concepts across rather than burying the reader in mathematical proofs.  I have enjoyed everything I have read by Rashid.
