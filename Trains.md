@@ -23,5 +23,7 @@ This, to me, is the most important book a model railroader can read.  It explain
 
 [Walthers](https://www.walthers.com/)
 
+[Woodland Scenics](https://woodlandscenics.woodlandscenics.com/show/category/Products)
+
 
 <!-- More to be added later-->
