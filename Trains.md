@@ -15,6 +15,8 @@ This, to me, is the most important book a model railroader can read.  It explain
 
 [Appalachian Railroad Modeling](https://appalachianrailroadmodeling.com/)
 
+[TR Miller Mill Railway History](https://hawkinsrails.net/industrials/trmmc/trmmc.htm)
+
 
 
 ## **Suppliers**
