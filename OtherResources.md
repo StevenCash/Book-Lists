@@ -132,6 +132,12 @@ Open source space exploration.
 
 [LibreSpace](https://libre.space/)
 
+### **NSF Seed Fund**
+
+NSF funding for innovation.
+
+[NSF Seed Fund](https://seedfund.nsf.gov/)
+
 
 
 
