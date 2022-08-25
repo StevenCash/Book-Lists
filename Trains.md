@@ -37,5 +37,7 @@ This, to me, is the most important book a model railroader can read.  It explain
 
 [Kalmbach](https://kalmbachhobbystore.com/)
 
+[Bachmann](https://bachmanntrains.com/home-usa/)
+
 
 <!-- More to be added later-->
