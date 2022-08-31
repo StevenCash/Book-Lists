@@ -6,6 +6,10 @@
 
 This, to me, is the most important book a model railroader can read.  It explains how to design a layout to actually work.  An absolute necessity.
 
+### **Railroad Signaling** by Brian Solomon
+
+This is a good book to read to learn general knowledge about the signals used in railroad operation.  It isn't geared to model railroads and isn't an operational guide, it is more of a history of railroad signaling.
+
 
 ## **Links**
 
