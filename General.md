@@ -80,6 +80,10 @@ Practical information about plant biology and processes for non-scientists.
 
 Negotiation tips and techniques.
 
+#### **Rework** by Jason Fried and David H. Hansson
+
+Interesting and unconventional business advice.
+
 
 
 <!-- More to be added later-->
