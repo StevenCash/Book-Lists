@@ -84,6 +84,10 @@ Negotiation tips and techniques.
 
 Interesting and unconventional business advice.
 
+####  **How to Lie with Statistics** by Darrell Huff
+
+Good advice for everyone on how journalists, organizations, politicians, scientists and many others use facts and figures to decieve their audience.
+
 
 
 <!-- More to be added later-->
