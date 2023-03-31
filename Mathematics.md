@@ -60,6 +60,10 @@ This is the only real analysis textbook I have found that is understandable.  So
 
 This isn't an analysis textbook, but is rather a sort of supplemental text to help understand the topic.  I thought it was really good and highly recommend it.  The author has some other good books as well that are worth checking out.
 
+####  **Introduction to Analysis** by Arthur Mattuck
+
+I'll add this to the list of possible starter Analysis books.  This is a slightly more practical introduction and might be easier to follow for someone who is not a math major (like me).  There are some things that Tao covers that are not in this book, but it is pretty good.  Generally anything you can find by Arthur Mattuck will be good.
+
 
 
 ### Fractals
