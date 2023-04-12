@@ -24,6 +24,10 @@ I have the 5th edition of this book which covers the Win32 API.  It is invaluabl
 
 I have a couple of different editions of this book, one of which is for .net (sixth edition).  They are all good.  They explain how to use visual studio and the Microsoft Foundation Classes to write windows programs.  However, they are written for older versions of Visual Studio and so are somewhat out of date for the latest incarnations of the Visual Studio IDE.  Even being dated, some of the information is still useful.
 
+#### **Java: A Beginner's Guide** by Shildt
+
+Pretty good introduction to Java.  The chapter on lambda's could be better.
+
 
 ### **Books on Specific Topics**
 
