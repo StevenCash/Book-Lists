@@ -86,5 +86,10 @@ This is a good book for a college student looking to major in mathematics, or pe
 This book is a sort of survey of the different fields of mathematics and gives some samples of the methods and types of problems one might encounter in
 the different areas.
 
+#### **Fundamentals of Applied Probability and Random Processes** by Oliver Ibe
+
+This is the best mid-level book on probability and random processes I have found.  It is very thorough, and mostly understandable.  This is a good follow-up to Bertsikis and Tsitsiklis.
+Be sure to find a copy of the solutions manual, you will need it as many of the problems are fairly complex and challenging.
+
 <!--More to be added later.-->
 
