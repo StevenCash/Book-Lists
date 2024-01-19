@@ -42,6 +42,11 @@ This is a good communications book.  It gives clear explanations and covers the 
 
 I haven't found a good introductory book on probabilistic signal processing, but this book covers a lot of the same material and is just a somewhat more general introduction to probabilistic methods.  It is pretty good, better than the others I have seen.  I would still like to find a good book that focused on signals in this area though.
 
+#### **Introduction to Random Signals and Noise** by Wim C. Van Etten
+
+This is a decent starting point for the topic, though it could be more in depth.  The detection and optimal filtering part requires too much outside knowledge to be useful unless
+you already know those topics.  
+
 #### **Control Systems Engineering** by Nise
 
 This is a good generic control systems textbook, I had no trouble understanding it.
