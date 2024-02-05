@@ -39,6 +39,10 @@ Good introduction to the topic, not a textbook but fine as a supplement or for s
 
 Another conceptual algorithm book, light on code but easy to read and understand.
 
+#### **A Common Sense Guide to Data Structures and Algorithms** by Jay Wengrow
+
+Another good book about data structures and algorithms.
+
 #### **Make Your Own Neural Network** by Tariq Rashid
 
 This is another awesome book by Tariq Rashid that explains the basics of neural networks and how to create one using Python.  The author gives simple clear explanations and focuses on getting the concepts across rather than burying the reader in mathematical proofs.  I have enjoyed everything I have read by Rashid.
